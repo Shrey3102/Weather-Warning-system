@@ -39,7 +39,7 @@ Weather Monitoring System is designed to fetch weather data using the ESP32 deve
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
     ```
-    git clone https://github.com/your-username/weather-monitoring-system.git
+    git clone https://github.com/Shrey3102/weather-monitoring-system.git
     ```
 
 2. **Open Arduino IDE**: Make sure you have the Arduino IDE installed and open the cloned project folder.
